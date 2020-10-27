@@ -14,7 +14,7 @@ namespace TriangleFil
     {
         //"Холст"
         Graphics gp;
-        Pen p = new Pen(Brushes.Black, 2);
+        Pen p = new Pen(Brushes.Black, 2); //
         Panel panel1;
 
         public Form2()
